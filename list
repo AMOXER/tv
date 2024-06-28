@@ -3,7 +3,6 @@
 
 
 
-la red tendencias prime telenorte
 
 #EXTINF:-1 tvg-id="1506" tvg-name="Chilevisual Retro" tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
@@ -56,7 +55,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/playlist.m3u8
 
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime 
-https://v2.tustreaming.cl/tendenciastv/index.m3u8
+https://v4.tustreaming.cl/tendenciastv/index.m3u8
 
 #EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png", Providencia TV 
 https://v1.tustreaming.cl/providenciatv/index.m3u8
@@ -93,9 +92,6 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red 
 https://unlimited2-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1501" tvg-name="Telenorte" tvg-logo="https://cdn.m3u.cl/logo/1501_Telenorte.png", Telenorte
-https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png", CRTV https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
 
@@ -296,10 +292,6 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
-
-
-
-
 
 
 
