@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png", 24 
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
@@ -13,9 +9,6 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv
 
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://lh3.googleusercontent.com/-ETprzEeH-JY/XbCxYXbNQUI/AAAAAAAArkw/zQxemFrwNjAbMoyByyr_sesnZ8QKgap-QCK8BGAsYHg/s0/2019-10-23.png", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png",Ahora Noticias
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="455" tvg-name="Mega" tvg-logo="https://www.m3u.cl/logo/455_Mega.png", Mega 
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
@@ -120,43 +113,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-logo=",CGTN Español (China)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png", Providencia TV 
-https://v1.tustreaming.cl/providenciatv/index.m3u8
-
-
-#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png",Deluxe Flashback (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Deluxe Rock (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u
-
-#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" ,Deluxe Dance (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-
-#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-
-#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-
-#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-
-#EXTINF:0 tvg-logo="http://i67.tinypic.com/1sxgr6.jpg",DJing Classics
-https://www.djing.com/tv/classics.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png", CRTV          
-https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 
@@ -177,13 +133,6 @@ https://stmv5.voxtvhd.com.br/chilevisualcultura/chilevisualcultura/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1418" tvg-name="Chilevisual Classic" tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png", Chilevisual Classic
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://i2.paste.pics/e349b7ba64870b6e3cceb058c1f3a6ce.png", +Cine 
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
-
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://i2.paste.pics/3d543690d890b9a5918a8025aebcf2bc.png", Terror TV 
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cAPEgAF.png",HorrorFy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
@@ -206,6 +155,46 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1540" tvg-name="JCU Streaming Chile TV" tvg-logo="https://cdn.m3u.cl/logo/1540_JCU_Streaming_Chile_TV.png", JCU Streaming Chile TV
 https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png", Providencia TV 
+https://v1.tustreaming.cl/providenciatv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png",Deluxe Flashback 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Deluxe Rock 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u
+
+#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" ,Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+
+#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png",Deluxe Rap 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus
+https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1 tvg-logo="http://vivotvhd.com/img/cha/987.gif",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:0 tvg-logo="http://i67.tinypic.com/1sxgr6.jpg",DJing Classics
+https://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="1098" tvg-name="CRTV" tvg-logo="https://cdn.m3u.cl/logo/1098_CRTV.png", CRTV          
+https://stmv4.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1288" tvg-name="Suyai TV" tvg-logo="https://i2.paste.pics/3d29bee85a41e947ab505098d83e8d64.png", Suyai TV
 https://5ff3d9babae13.streamlock.net:443/ewdnnusyjt/ewdnnusyjt/playlist.m3u8
@@ -281,6 +270,7 @@ https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg", Canal Diputados
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
+
 
 
 
