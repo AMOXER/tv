@@ -21,7 +21,7 @@ https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
-https://m3u.cl/channel/c13
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
