@@ -21,7 +21,7 @@ https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
-https://m3u.cl/channel/c13.php?PlaylistM3UCL
+https://m3u.cl/channel/c13
 
 #EXTINF:-1 tvg-id="1054" tvg-name="T13" tvg-logo="https://i2.paste.pics/38adedd4130272be03ef804c5eaf067e.png", T13
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
@@ -31,8 +31,6 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
 
 #EXTINF:-1 tvg-id="1198" tvg-name="T13 Radio" tvg-logo="https://cdn.m3u.cl/logo/1198_T13_Radio.png", T13 Radio
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8
-
-
 
 
 
@@ -80,12 +78,6 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8
-
-#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/405_Cosmos_TV.png", Cosmos TV 
-https://v1.tustreaming.cl/cosmostv/index.m3u8
-
-#EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80
-https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="160506" tvg-name="Bio-Bio TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv.png" , Radio Bio-Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
@@ -143,6 +135,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
 http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="405" tvg-name="Cosmos TV" tvg-logo="https://cdn.m3u.cl/logo/405_Cosmos_TV.png", Cosmos TV 
+https://v1.tustreaming.cl/cosmostv/index.m3u8
+
 
 #EXTINF:-1 tvg-id="1506" tvg-name="Chilevisual Retro" tvg-logo="https://cdn.m3u.cl/logo/1506_Chilevisual_Retro.png", Chilevisual Retro
 https://stmv5.voxtvhd.com.br/chilevisualretro/chilevisualretro/playlist.m3u8
@@ -193,8 +188,8 @@ https://stmv3.voxtvhd.com.br/jcustreaming/jcustreaming/playlist.m3u8
 #EXTINF:-1 tvg-id="1553" tvg-name="Providencia TV" tvg-logo="https://cdn.m3u.cl/logo/1553_Providencia_TV.png", Providencia TV 
 https://v1.tustreaming.cl/providenciatv/index.m3u8
 
-#EXTINF:-1 tvg-id="1597" tvg-name="VideoHit" tvg-logo="https://cdn.m3u.cl/logo/1597_VideoHit.png", VideoHit
-https://cablemor.andremor.dev/live/videohit/index.m3u8
+#EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://cdn.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80
+https://streamlov.alsolnet.com/amplificacion/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
 https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
