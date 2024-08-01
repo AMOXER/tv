@@ -91,6 +91,9 @@ https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png", Radio Agricultura
 http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila
+https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1313" tvg-name="Radio Edelweiss" tvg-logo="https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png", Radio Edelweiss
 https://streamdemo.dyndns.biz/hls/edelweiss_src.m3u8 
 
