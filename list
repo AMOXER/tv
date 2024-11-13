@@ -98,10 +98,9 @@ https://mitv.zplay.cl/Ztv/index.m3u8
 #EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro 
 https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
-#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
+#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV 
+https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-id="1602" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV 
 https://eu1.servers10.com:8081/8162/index.m3u8
@@ -166,8 +165,6 @@ https://tv.streaming-chile.com:19360/8140/8140.m3u8
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine 
 https://tv.streaming-chile.com:19360/8142/8142.m3u8
 
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-id="1300" tvg-name="Moni TV" tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
