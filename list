@@ -80,6 +80,8 @@ https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://www.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bio Bio TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
+https://pnt.janusmedia.tv/hls/pnt.m3u8
 
 #EXTINF:-1 tvg-id="160506" tvg-name="Bio-Bio TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv.png" , Radio Bio-Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
@@ -110,24 +112,19 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime 
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
 
-#EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
-https://pnt.janusmedia.tv/hls/pnt.m3u8
-
+#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TVhttps://vdochile.com:3134/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
-https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF&PlaylistM3UCL
+https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
-https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=dEmoweBeneRGEek2025&password=FK8tJm5kBxetEDAXSLDF&PlaylistM3UCL
-
+https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
-#EXTINF:-1 tvg-id="1585" tvg-name="AniRetro" tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png", AniRetro 
-https://tv.streaming-chile.com:19360/8068/8068.m3u8
 
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV 
 https://stream.wifiexpert.cl/kanade/kanadetv/playlist.m3u8
@@ -156,9 +153,6 @@ https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png", TV UCT
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",TeleSUR
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" , NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
@@ -181,14 +175,10 @@ https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV 
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?
 
-#EXTINF:-1 tvg-id="1420" tvg-name="Terror TV" tvg-logo="https://cdn.m3u.cl/logo/1420_Terror_TV.png", Terror TV 
-https://tv.streaming-chile.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine 
-https://tv.streaming-chile.com:19360/8142/8142.m3u8
+https://tv.arkeo.cl:19360/8128/8128.m3u8
 
-#EXTINF:-1 tvg-id="1653" tvg-name="+Cine Classic" tvg-logo="https://cdn.m3u.cl/logo/1653__Cine_Classic.png", +Cine Classic
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mascineclasico/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -238,17 +228,8 @@ https://www.djing.com/tv/classics.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.radio.net/images/broadcasts/3e/ec/29681/c175.png",Radio Iglesias
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png",Bridge Deluxe
-https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
-
 #EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/HimuPPb.png",Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-
-#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png",Deluxe Flashback 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Deluxe Rock 
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65181/65181_264_live.m3u8
 
 #EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" ,Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
@@ -310,4 +291,3 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
 
-terror tv + cine + ciner classic bridge deluxe rock y flashback no funcionan abril 
