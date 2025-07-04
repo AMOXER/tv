@@ -1,4 +1,3 @@
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PU2cqzN.png", 24 
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 
@@ -200,14 +199,13 @@ https://freya.mivideo.pro/parentesistv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus
-https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5" tvg-name="Retro Plus TV Señal 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png", Retro Plus TV Señal 2 
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="465" tvg-name="Retro Plus TV Señal 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png", Retro Plus TV Señal 3
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
-
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
@@ -289,5 +287,3 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png", TV Senado 
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-
-
