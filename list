@@ -175,9 +175,11 @@ https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine 
 https://tv.arkeo.cl:19360/8128/8128.m3u8
 
-#EXTINF:-1 tvg-id="1696" tvg-name="Videoclub" tvg-logo="https://cdn.m3u.cl/logo/1696_Videoclub.png", Videoclub https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
-#EXTINF:-1 tvg-id="1701" tvg-name="Vibra TV" tvg-logo="https://cdn.m3u.cl/logo/1701_Vibra_TV.png", Vibra TV https://sc1.wasidata.com/VibraPlus/video.m3u8
+#EXTINF:-1 , Videoclub
+https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
+
+#EXTINF:-1 , Vibra TV https://sc1.wasidata.com/VibraPlus/video.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
