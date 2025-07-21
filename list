@@ -172,6 +172,10 @@ https://backend.energeek.cl/webtv/pridetvweb/index.m3u8
 #EXTINF:-1 tvg-id="1014" tvg-name="PlanetaTV" tvg-logo="https://cdn.m3u.cl/logo/1014_PlanetaTV.png", PlanetaTV 
 https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?
 
+#EXTINF:-1 tvg-id="1696" tvg-name="Videoclub" tvg-logo="https://cdn.m3u.cl/logo/1696_Videoclub.png", Videoclub https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8?PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="1701" tvg-name="Vibra TV" tvg-logo="https://cdn.m3u.cl/logo/1701_Vibra_TV.png", Vibra TV https://sc1.wasidata.com/VibraPlus/video.m3u8
 
 #EXTINF:-1 tvg-id="1435" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png", +Cine 
 https://tv.arkeo.cl:19360/8128/8128.m3u8
@@ -278,7 +282,7 @@ http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png", TV Senado 
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/x3dL9pm.jpg", rafael
+#EXTINF:-1 , rafael
 
 
 
