@@ -22,6 +22,9 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
 #EXTINF:-1 tvg-id="1569" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png", CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8
 
+#EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", Tevex
+https://v2.tustreaming.cl/tevex/index.m3u8
+
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
 
@@ -112,20 +115,22 @@ https://v4.tustreaming.cl/tendenciastv/index.m3u8
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TVhttps://vdochile.com:3134/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro 
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UC
 
 #EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV 
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="1602" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV 
 https://eu1.servers10.com:8081/8162/index.m3u8
@@ -133,12 +138,8 @@ https://eu1.servers10.com:8081/8162/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="T-Vinet" tvg-logo="https://www.m3u.cl/logo/84_T_Vinet.png", T-Vinet
 https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", Tevex
-https://v2.tustreaming.cl/tevex/index.m3u8
-
 #EXTINF:-1 tvg-id="1416" tvg-name="TV y TV" tvg-logo="https://cdn.m3u.cl/logo/1416_TV_y_TV.png", TV y TV 
-https://stmv5.voxtvhd.com.br/tvytv/tvytv/playlist.m3u8
-
+https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1418" tvg-name="Chilevisual Classic" tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png", Chilevisual Classic 
 https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
@@ -180,7 +181,7 @@ https://tv.arkeo.cl:19360/8128/8128.m3u8
 https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 #EXTINF:-1 , Vibra TV
-https://sc1.wasidata.com/VibraPlus/video.m3u8
+https://sc1.wasidata.com/VibraPlus/video.m3u8?token=app120425&PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="http://www.unored.tv/wp-content/uploads/2015/08/Extrema-TV-logo.jpg", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
