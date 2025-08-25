@@ -78,11 +78,40 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kPRDVf/logoucv3.png",UCV 2 
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png", TV UCT
+https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" , NTV 
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
+
+#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
+http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
+
+
 #EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://www.m3u.cl/logo/435_Chile_Channel.png", Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
 #EXTINF:-1 tvg-id="353" tvg-name="Canal 9 Bío Bí­o TV" tvg-logo="https://www.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png", Canal 9 Bio Bio TV
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime 
+https://v4.tustreaming.cl/tendenciastv/index.m3u8
+
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro 
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UC
+
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="160506" tvg-name="Bio-Bio TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv.png" , Radio Bio-Bio TV
@@ -112,20 +141,9 @@ https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime 
-https://v4.tustreaming.cl/tendenciastv/index.m3u8
 
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TVhttps://vdochile.com:3134/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro 
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UC
-
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime
 https://mitv.zplay.cl/Ztv/index.m3u8
@@ -151,20 +169,6 @@ https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="Universidad Autonoma TV" tvg-logo="https://www.m3u.cl/logo/58_Universidad_Autonoma_TV.png", Universidad Autonoma TV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png", TV UCT
-https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" , NTV 
-https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
-
-#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
-https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
-http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="359" tvg-name="Canal Latino 54" tvg-logo="https://cdn.m3u.cl/logo/359_Canal_Latino_54.png", Canal Latino 54
 https://videostream.chileservidores.com:8081/latina/index.m3u8
