@@ -148,11 +148,7 @@ https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1705" tvg-name="Terranova TV" tvg-logo="https://cdn.m3u.cl/logo/1705_Terranova_TV.png", Terranova TV 
 https://5ff3d9babae13.streamlock.net:443/stgyqqjrye/stgyqqjrye/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
-https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central TV 
-https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 
 
 #EXTINF:-1 tvg-id="1604" tvg-name="ZTV Anime" tvg-logo="https://cdn.m3u.cl/logo/1604_ZTV_Anime.png", ZTV Anime
@@ -570,7 +566,11 @@ https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
+#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central TV 
+https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 
 
 
