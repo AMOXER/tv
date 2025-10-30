@@ -458,6 +458,19 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TheRetroChannel.pr" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p)
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png",Mega cine y música
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+
+#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png",Turbo Mix Radio TV
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+
+#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
+
+
 #EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-logo="https://i.imgur.com/FBgu8yB.png",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
@@ -510,14 +523,3 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="TheRetroChannel.pr" tvg-logo="https://i.imgur.com/t3i1HtE.jpg",The Retro Channel (1080p)
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png",Mega cine y música
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
-
-#EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png",Turbo Mix Radio TV
-https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
-
-#EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
-https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
