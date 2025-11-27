@@ -203,11 +203,11 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1725" tvg-name="Onda Fiesta" tvg-logo="https://cdn.m3u.cl/logo/1725_Onda_Fiesta.png", Onda Fiesta | CL
+#EXTINF:-1 tvg-id="1725" tvg-name="Onda Fiesta" tvg-logo="https://cdn.m3u.cl/logo/1725_Onda_Fiesta.png", Onda Fiesta 
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL
 
 
-#EXTINF:-1 tvg-id="1724" tvg-name="Factor 80" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png", Factor 80 | CL
+#EXTINF:-1 tvg-id="1724" tvg-name="Factor 80" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png", Factor 80 
 https://5e3483cba9114.streamlock.net:443/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
