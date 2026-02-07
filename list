@@ -6,10 +6,13 @@ https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
 #EXTINF:-1 tvg-name="Telemundo Noticias" tvg-logo="https://i.postimg.cc/gJZLn3gH/unnamed.png",  Telemundo Noticias 1
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
-#EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
+
+
+
+#EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i.postimg.cc/9ffn5QJN/449700079-1000647851662064-5662754223310090994-n.jpg", Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.TVCHILE.png.a134e9433d393cad2f30517439400be9.png",Tv Chile
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/large.TVCHILE.png",Tv Chile
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?xtreamiptv.m3u8
 
 #EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV 
