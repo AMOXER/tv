@@ -3,7 +3,19 @@
 #EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png", CNN Chile 
 https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemundo Noticias 
+
+
+#EXTINF:-1 tvg-name="Telemundo Noticias" tvg-logo="https://x.com/TelemundoNews/photo",  Telemundo Noticias 1
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+
+#EXTINF:-1 tvg-name="Telemundo Noticias" tvg-logo="https://ibb.co/LzKmZTbR",  Telemundo Noticias 2
+https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemundo Noticias 3
 https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="415" tvg-name="Puranoticia" tvg-logo="https://i2.paste.pics/3dcc431073eca367aef2011ebdd26387.png", Puranoticia
