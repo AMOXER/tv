@@ -1,3 +1,5 @@
+
+
 #EXTM3U
 
 #EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png", CNN Chile 
@@ -27,13 +29,13 @@ https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="790" tvg-name="La Red" tvg-logo="https://www.m3u.cl/logo/790_La_Red.jpg", La Red 
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://i.postimg.cc/gjK7bLbb/tvn3.png", TVN3
+#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://i.postimg.cc/6Qypm8kF/sshot-7.png", TVN3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8
 
 #EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", Tevex
 https://v2.tustreaming.cl/tevex/index.m3u8
 
-#EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://graph.facebook.com/stgotvchile/picture?width=800&height=800", Stgo.TV
+#EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://i.postimg.cc/zDLTgBVm/sshot-6.png", Stgo.TV
 https://stv4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://www.m3u.cl/logo/458_TV_.png", TV+ 
@@ -46,13 +48,13 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/file_1586933274.png" , NTV 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtQR2r0S/sshot-8.png" , NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
-#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i2.paste.pics/81e9b68acb5941a7f995be421041deeb.png", RT Español
+#EXTINF:-1 tvg-id="497" tvg-name="RT Español" tvg-logo="https://i.postimg.cc/kMZB3vM3/Russia-today-logo-svg.png", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://lh3.googleusercontent.com/--AW1Ecwc3mA/XkCKi0vJyKI/AAAAAAAAv8A/EEsjeBXIHI84UAgvUar2SUVbxJv69E9GACK8BGAsYHg/s0/2020-02-09.png", DW Español
+#EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://i.postimg.cc/XqFZDrCF/d-w.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
