@@ -103,7 +103,6 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="336" tvg-name="Tendencias Prime" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_Prime.png", Tendencias Prime 
 https://v4.tustreaming.cl/tendenciastv/index.m3u8
 
-
 #EXTINF:-1 tvg-id="1598" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png", FutGO 
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 
@@ -148,6 +147,7 @@ https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV 
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
@@ -205,9 +205,6 @@ https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1726" tvg-name="EstaciónTV" tvg-logo="https://cdn.m3u.cl/logo/1726_EstacionTV.png", Estación TV 
 https://tv.arkeo.cl:1936/shqzratbfz/shqzratbfz/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1724" tvg-name="Factor 80" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png", Factor 80 
-https://5e3483cba9114.streamlock.net:443/8044/8044/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -348,9 +345,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Crímenes Reales 
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HOLAPlay.es@SD" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="",HOLA! Play
-https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
-
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 
@@ -375,9 +369,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png",NOW Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-logo="https://i.imgur.com/HnjUjog.png",Mega cine y música
-https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
 
 #EXTINF:-1 tvg-id="TurboMixRadioTV.pe" tvg-logo="https://i.imgur.com/AsdBQa3.png",Turbo Mix Radio TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
