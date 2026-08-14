@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png", CNN Chile 
-https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/cnn/cnn.smil/playlist.m3u8?PlaylistM3UCL
+
 
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas" tvg-logo="https://cdn.m3u.cl/logo/448_TVN_24_Horas.png", 24 Horas 
 https://mdstrm.com/live-stream-playlist/689ba606ecfe7915e1f8f741.m3u8?PlaylistM3UCL
@@ -111,6 +112,9 @@ https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png", TV UCT
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1769" tvg-name="China Channel" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png", China Channel 
+https://v2.tustreaming.cl/chinachannel/index.m3u8
+
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg" group-title="", 13 Kids 
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
@@ -146,6 +150,21 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 
 #EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila
 https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1755" tvg-name="FM Plus" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png", FM Plus 
+https://v2.tustreaming.cl/fmplus/index.m3u8
+
+#EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio 
+https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1754" tvg-name="Pudahuel TV" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png", Pudahuel TV 
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1725" tvg-name="Onda Fiesta" tvg-logo="https://cdn.m3u.cl/logo/1725_Onda_Fiesta.png", Onda Fiesta 
+https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1724" tvg-name="Factor 80" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png", Factor 80 
+https://5ff3d9babae13.streamlock.net:443/mjtdyftskj/mjtdyftskj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
 https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
