@@ -16,7 +16,8 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1153" tvg-name="CHV" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV 
-https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13
 https://m3u.cl/channel/c13.php?PlaylistM3UCL
@@ -66,14 +67,8 @@ https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 #EXTINF:-1 tvg-id="1448" tvg-name="13 Realities" tvg-logo="https://i2.paste.pics/22b32c8870b49a5fad925b53b7485aa5.png", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
 
-#EXTINF:-1 tvg-id="1752" tvg-name="HC Deportes" tvg-logo="https://cdn.m3u.cl/logo/1752_HC_Deportes.png", HC Deportes 
-https://oracle.streaminghd.cl/hcdeportestv/hcdeportestv/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", Tevex
 https://v2.tustreaming.cl/tevex/index.m3u8
-
-#EXTINF:-1 tvg-name="Stgo.TV" tvg-logo="https://i.postimg.cc/zDLTgBVm/sshot-6.png", Stgo.TV
-https://stv4.janus.cl/playlist/stream.m3u8
 
 #EXTINF:-1 tvg-id="458" tvg-name="TV+" tvg-logo="https://www.m3u.cl/logo/458_TV_.png", TV+ 
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8
@@ -157,6 +152,9 @@ https://v2.tustreaming.cl/fmplus/index.m3u8
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio 
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
+#EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1754" tvg-name="Pudahuel TV" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png", Pudahuel TV 
 https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 
@@ -165,13 +163,6 @@ https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1724" tvg-name="Factor 80" tvg-logo="https://cdn.m3u.cl/logo/1724_Factor_80.png", Factor 80 
 https://5ff3d9babae13.streamlock.net:443/mjtdyftskj/mjtdyftskj/playlist.m3u8
-
-#EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="1466" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png", Kanade TV 
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1602" tvg-name="RTV" tvg-logo="https://cdn.m3u.cl/logo/1602_RTV.png", RTV 
 https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8?PlaylistM3UCL
@@ -224,9 +215,6 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind Music Channel 
 https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="1726" tvg-name="EstaciónTV" tvg-logo="https://cdn.m3u.cl/logo/1726_EstacionTV.png", Estación TV 
-https://tv.arkeo.cl:1936/shqzratbfz/shqzratbfz/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
@@ -247,9 +235,6 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.
 
 #EXTINF:-1 tvg-id="1024" tvg-name="Vision Plus TV" tvg-logo="https://www.m3u.cl/logo/1024_Vision_Plus_TV.png", Vision Plus TV 
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.cadenaelite.es/img/logoMenu.png",Cadena Elite 
-https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
 #EXTINF:-1, tvg-logo="8cnXJcu.png", Red Bull TV 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
@@ -319,15 +304,36 @@ https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id="RuntimeEspanol.us" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="",Runtime Español
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Cine Aliens 
-https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="CineSony.us" tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Telemundo Acción
 https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ideas en 5 minutos 
+https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Estilo y Vida 
+https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Grjngo Spain 
+https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rakuten TV Crime Series Spain 
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Speed Sport 1 
+https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="",TVE Internacional America 
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="",Austral TV 
+https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Mundo Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8
@@ -369,18 +375,8 @@ https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BRIDGE.ru" tvg-logo="https://i.imgur.com/qYObfrG.png" group-title="",BRIDGE
 http://31.148.48.15/Bridge_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="BRIDGEClassic.ru" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="",BRIDGE Classic
-http://31.148.48.15/Bridge_TV_Classic/index.m3u8
-
-#EXTINF:-1 tvg-id="BRIDGEDeluxe.ru" tvg-logo="https://i.imgur.com/EazL8w7.png" group-title="",BRIDGE Deluxe
-http://31.148.48.15/Bridge_TV_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="BRIDGEHits.ru" tvg-logo="https://i.imgur.com/sIW9oR4.png" group-title="",BRIDGE Hits
-http://31.148.48.15/Bridge_TV_Dance/index.m3u8
-
 #EXTINF:-1 tvg-id="DanceHits80.ru@SD" tvg-logo="https://i.imgur.com/uMw3kks.png" group-title="",DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70's
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
@@ -396,7 +392,6 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
 #EXTINF:-1 tvg-id="1195" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png", La Chilena TV 
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-logo="https://i.imgur.com/jf5C9QF.png",Stingray Flashback 70s 
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
@@ -453,39 +448,8 @@ https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u
 #EXTINF:-1 tvg-id="StingrayUrbanBeat.ca" tvg-logo="https://i.imgur.com/Os3kRRP.png",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Ideas en 5 minutos 
-https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Estilo y Vida 
-https://4a7284f0c8334835adb8f223c36fbc37.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6232/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Grjngo Spain 
-https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Rakuten TV Crime Series Spain 
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8
-
-
-
-#EXTINF:-1 tvg-id="SamuelGoldwynClassics.us@SD" tvg-logo="https://i.imgur.com/XC30JAF.png" group-title="",Samuel Goldwyn Classics (Ingles)
-https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Speed Sport 1 
-https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="TVEInternacionalAmerica.es@SD" tvg-logo="https://i.imgur.com/iODADvi.png" group-title="",TVE Internacional America 
-https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Vevo Pop 
 https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="",Austral TV 
-https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Vevo2K.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="",Vevo 2K 
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
