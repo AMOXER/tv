@@ -141,6 +141,9 @@ https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea
 #EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Pauta TV 
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-id="1773" tvg-name="Cooperativa Ciencia" tvg-logo="https://cdn.m3u.cl/logo/1773_Cooperativa_Ciencia.png", Cooperativa Ciencia 
+https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="420" tvg-name="Radio Portales" tvg-logo="https://cdn.m3u.cl/logo/420_Radio_Portales.png", Radio Portales https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila
@@ -212,8 +215,8 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind Music Channel 
-https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind coopera 
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -463,22 +466,17 @@ https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="",Vevo 90s 
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="",Vevo Country 
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="",Vevo Pop 
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="",Vevo Retro Rock 
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Vevo Schlager Pop 
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="VintageMusic.cr@SD" tvg-logo="" group-title="",Vintage Music 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
