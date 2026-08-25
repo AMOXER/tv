@@ -88,9 +88,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-id="511" tvg-name="DW Español" tvg-logo="https://i.postimg.cc/XqFZDrCF/d-w.png", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
-http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="435" tvg-name="Chile Channel" tvg-logo="https://www.m3u.cl/logo/435_Chile_Channel.png", Chile Channel
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 
@@ -105,9 +102,6 @@ https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM
 
 #EXTINF:-1 tvg-id="802" tvg-name="TV UCT" tvg-logo="https://www.m3u.cl/logo/802_TV_UCT.png", TV UCT
 https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1769" tvg-name="China Channel" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png", China Channel 
-https://v2.tustreaming.cl/chinachannel/index.m3u8
 
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg" group-title="", 13 Kids 
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
@@ -146,6 +140,12 @@ https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1755" tvg-name="FM Plus" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png", FM Plus 
 https://v2.tustreaming.cl/fmplus/index.m3u8
+
+#EXTINF:-1 tvg-id="1769" tvg-name="China Channel" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png", China Channel 
+https://v2.tustreaming.cl/chinachannel/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9sKGsmt.png",ITV
+http://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
 
 #EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
