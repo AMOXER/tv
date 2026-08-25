@@ -171,6 +171,7 @@ https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1418" tvg-name="Chilevisual Classic" tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png", Chilevisual Classic 
 https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
 
+
 #EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central TV 
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="58" tvg-name="Universidad Autonoma TV" tvg-logo="https://www.m3u.cl/logo/58_Universidad_Autonoma_TV.png", Universidad Autonoma TV
@@ -212,7 +213,7 @@ https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8
 #EXTINF:-1 tvg-id="1160" tvg-name="VClassicTV" tvg-logo="https://i2.paste.pics/99cc893c37784a17aac9a95ac3c7e5c8.png", VClassicTV
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind coopera 
+#EXTINF:-1 tvg-id="1727" tvg-name="Rewind Music Channel" tvg-logo="https://cdn.m3u.cl/logo/1727_Rewind_Music_Channel.png", Rewind  
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/%C3%93%C4%8Dko_Star_logo.png",Ocko star
