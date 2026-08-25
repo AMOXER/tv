@@ -79,7 +79,6 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kPRDVf/logoucv3.png",UCV 2 
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtQR2r0S/sshot-8.png" , NTV 
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8
 
@@ -113,16 +112,6 @@ https://v2.tustreaming.cl/chinachannel/index.m3u8
 #EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/13kids.svg" group-title="", 13 Kids 
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
-#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
-https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro 
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UC
-
-#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
-https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
-
-
 #EXTINF:-1 tvg-id="160506" tvg-name="Bio-Bio TV" tvg-logo="https://www.biobiochile.cl/assets/img/logo-bbtv.png" , Radio Bio-Bio TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8
 
@@ -138,11 +127,11 @@ http://unlimited1-cl-isp.dps.live/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="1673" tvg-name="Radio Agricultura 2" tvg-logo="https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png", Radio Agricultura 2 
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Pauta TV 
-https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="1773" tvg-name="Cooperativa Ciencia" tvg-logo="https://cdn.m3u.cl/logo/1773_Cooperativa_Ciencia.png", Cooperativa Ciencia 
+#EXTINF:-1 tvg-id="1773" tvg-name="Cooperativa Ciencia" tvg-logo="https://cdn.m3u.cl/logo/1773_Cooperativa_Ciencia.png",Radio Cooperativa Ciencia 
 https://unlimited2-cl-isp.dps.live/cooperativaciencia/cooperativaciencia.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="882" tvg-name="Pauta TV" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png", Radio Pauta TV 
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="420" tvg-name="Radio Portales" tvg-logo="https://cdn.m3u.cl/logo/420_Radio_Portales.png", Radio Portales https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8
 
@@ -151,6 +140,15 @@ https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1755" tvg-name="FM Plus" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png", FM Plus 
 https://v2.tustreaming.cl/fmplus/index.m3u8
+
+#EXTINF:-1 tvg-id="1112" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png", EnerGeek FAN 
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="947" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png", EnerGeek Retro 
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UC
+
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png", EnerGeek Radio 
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio 
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
@@ -466,17 +464,22 @@ https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="Vevo90s.us@SD" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="",Vevo 90s 
 https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="VevoCountry.us@SD" tvg-logo="https://images.pluto.tv/channels/5da0d75e84830900098a1ea0/featuredImage.jpg" group-title="",Vevo Country 
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
 
+
 #EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="",Vevo Pop 
 https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="VevoRetroRock.us@SD" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="",Vevo Retro Rock 
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Vevo Schlager Pop 
 https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="VintageMusic.cr@SD" tvg-logo="" group-title="",Vintage Music 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
