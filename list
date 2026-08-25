@@ -138,6 +138,12 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila
 https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8
 
+#EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
+https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1754" tvg-name="Pudahuel TV" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png", Pudahuel TV 
+https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1755" tvg-name="FM Plus" tvg-logo="https://cdn.m3u.cl/logo/1755_FM_Plus.png", FM Plus 
 https://v2.tustreaming.cl/fmplus/index.m3u8
 
@@ -153,12 +159,6 @@ https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&Playl
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://cdn.m3u.cl/logo/414_AE_Radio.png", AE Radio 
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Radio Pudahuel 
-https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="1754" tvg-name="Pudahuel TV" tvg-logo="https://cdn.m3u.cl/logo/1754_Pudahuel_TV.png", Pudahuel TV 
-https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8
-
 #EXTINF:-1 tvg-id="1725" tvg-name="Onda Fiesta" tvg-logo="https://cdn.m3u.cl/logo/1725_Onda_Fiesta.png", Onda Fiesta 
 https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8
 
@@ -170,7 +170,6 @@ https://origin-us.streaminghd.cl/rtv/rtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="1418" tvg-name="Chilevisual Classic" tvg-logo="https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png", Chilevisual Classic 
 https://paneltv.stream:19360/chilevisual/chilevisual.m3u8?PlaylistM3UCL
-
 
 #EXTINF:-1 tvg-id="1706" tvg-name="Central TV" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png", Central TV 
 https://freya.mivideo.pro/centraltv/video.m3u8?PlaylistM3UCL
